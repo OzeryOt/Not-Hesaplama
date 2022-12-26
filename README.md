@@ -1,4 +1,4 @@
-# Not-Hesaplama-TR
+# Not Hesaplama
 
 Üniversite Not Hesaplama
 
