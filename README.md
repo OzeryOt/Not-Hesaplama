@@ -1,11 +1,11 @@
-# Not-Hesaplama
-    Üniversite Not Hesaplama
+# Not-Hesaplama-TR
 
-    Bu bir üniversite not hesaplama uygulamasıdır
-    
-    Aşağıdaki görseldeki kırmızı ok ile seçili olan kısım seçili ise direkt olarak 
-    yeşil oklarla gösterilen yerlere notları girmeniz ve daha sonrasında sarı okla 
-    gösterilen hesaplamaya tıklayınız ve bu yöntem 2 sınav üzerinden direkt 
-    ortalamanızı hesaplayacaktır.
+Üniversite Not Hesaplama
 
-    ![](NotHesaplamaSS/Screenshot.png)   
+Bu bir üniversite not hesaplama uygulamasıdır
+
+1-) Otomatik seçili gelen yöntemde kutucuklara girdiğiniz sayıları normal not hesaplama ile "Hesapla" butonuna bastıktan sonra eğer herhangi bir hata olmadan giriş yaparsanız sonucunuzu hesaplayıp "Sonuç: " kısmının karşısına sonucunuz gelecektir.
+
+2-) "Vize/Final Notu Hesaplama" radioButton'ını seçerseniz label'ların değiştiğini göreceksiniz ilk radioButton'da yani "1 Vize" seçiliyken 1 Vizeye göre ve 1 Finale göre girilen not hesaplamalarını hesaplar ama burada diğerinden farklı olarak vize ve finalin karşısına oranlarını girmeniz gerekmektedir. Bu hesaplama 3 Vizeye kadar olan hesaplamalarda geçerlidir ve oranları belirlemeniz gereklidir. "Hesaplama" butonuna bastıktan sonra eğer hatasız bir şekilde girdiyseniz bilgileri hesaplama yapıldıktan sonra "Sonuç: " kısmının karşısına sonucunuz gelecktir.
+
+3-) "Temizle" butonu sonucu ve kutucukların içerisini temizlemenizi sağlamaktadır.
