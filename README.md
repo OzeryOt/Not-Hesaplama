@@ -3,7 +3,7 @@
 
     Bu bir üniversite not hesaplama uygulamasıdır
     
-    ![Screenshot](https://user-images.githubusercontent.com/104618142/209575938-84d1bd09-3cf4-45c1-9fcf-3e2bb5d15235.jpg)
+    ![Görsel 1](https://www.hizliresim.com/1xw4tb2)
 
     Yukarıdaki görseldeki kırmızı ok ile seçili olan kısım seçili ise direkt olarak 
     yeşil oklarla gösterilen yerlere notları girmeniz ve daha sonrasında sarı okla 
