@@ -1,0 +1,4 @@
+F:\C++ Windows App\NotHesaplama\NotHesaplama\x64\Debug\NotHesaplama.vcxproj.AssemblyReference.cache
+F:\C++ Windows App\NotHesaplama\NotHesaplama\x64\Debug\NotHesaplama.vcxproj.SuggestedBindingRedirects.cache
+F:\C++ Windows App\NotHesaplama\NotHesaplama\x64\Debug\NotHesaplama.MyForm.resources
+F:\C++ Windows App\NotHesaplama\NotHesaplama\x64\Debug\NotHesaplama.vcxproj.GenerateResource.cache
